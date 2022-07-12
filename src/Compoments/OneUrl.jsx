@@ -4,9 +4,9 @@ export default function OneUrl(props) {
   return (
     <div className='col'>
       <div className='container'>
-        <h2 className=''>
+        <h4 className=''>
           <a href={props.link.url}>{props.link.name}</a>
-        </h2>
+        </h4>
         <div className=''> 
           <div className=''>
             {

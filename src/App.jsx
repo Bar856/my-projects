@@ -29,13 +29,13 @@ function App() {
       "Battle cards game made with react during Full-stack course."
     ],[battle1,battle2]),
     new MyUrl('https://bar856.github.io/SmartHomeApp/','SmartHomeApp',[
-      "Smart Home App made with react during Full-stack course."
+      "Freamwork for Smart Home App made with React."
     ],[smarthome1,smarthome2]),
-    new MyUrl('https://bar856.github.io/best-movie','Best Movie',[
-      "Best movie app made with react during Full-stack course."
+    new MyUrl('https://bar856.github.io/best-movie','Movie Rating',[
+      "Movies Rating System on React."
     ],[bestmovie,]),
     new MyUrl('https://bar856.github.io/car-garage/','Car Garage app',[
-      "Car garage app made with react during Full-stack course."
+      "Car garage app made with React."
     ],[garage,]),
     new MyUrl('https://bar856.github.io/sv-bank/','Bank app',[
       "Bank app made with react during Full-stack course."
