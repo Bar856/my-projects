@@ -16,7 +16,7 @@ function App() {
     constructor(url,name,describe,images){
       this.url = url;
       this.name=name;
-      this.describe = describe;
+      this.describe = describe; 
       this.images = images;
     }
   }
@@ -26,7 +26,7 @@ function App() {
       "This app identifying the names inside chosen folder that contains Hebrew chars and change the name to English and keep the original name also."
     ],[switcher,]),
     new MyUrl('https://bar856.github.io/BattleGame/','BattleGame',[
-      "Battle cards game made with react during Full-stack course."
+      "Battle Cards game made with React"
     ],[battle1,battle2]),
     new MyUrl('https://bar856.github.io/SmartHomeApp/','SmartHomeApp',[
       "Freamwork for Smart Home App made with React."
@@ -38,10 +38,10 @@ function App() {
       "Car garage app made with React."
     ],[garage,]),
     new MyUrl('https://bar856.github.io/sv-bank/','Bank app',[
-      "Bank app made with react during Full-stack course."
+      "Bank app made with React."
     ],[bank,]),
     new MyUrl('https://bar856.github.io/gym-app/','Gym app',[
-      "Gym app made with react during Full-stack course."
+      "Workouts Track App made with React."
     ],[gym,]),
   ]
   return (

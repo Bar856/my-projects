@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/my-projects/static/css/main.244963f4.css",
-    "main.js": "/my-projects/static/js/main.1ff95d02.js",
+    "main.js": "/my-projects/static/js/main.ff572218.js",
     "static/media/smarthome1.png": "/my-projects/static/media/smarthome1.92db83702034b5217d10.png",
     "static/media/smarthome2.png": "/my-projects/static/media/smarthome2.b8d53e833b21eeea735b.png",
     "static/media/battle2.png": "/my-projects/static/media/battle2.a29524a52538a8d0974f.png",
     "static/media/battle1.png": "/my-projects/static/media/battle1.6e65be345447e4db14d3.png",
-    "static/media/garage.png": "/my-projects/static/media/garage.befb4de164c5b367f198.png",
+    "static/media/garage.png": "/my-projects/static/media/garage.24a6c0a99e43ed853140.png",
     "static/media/bestmovie.png": "/my-projects/static/media/bestmovie.5a99a82fe185fa7912c1.png",
     "static/media/gym.png": "/my-projects/static/media/gym.8da99be81275e3ffc7bf.png",
     "static/media/bg.jpg": "/my-projects/static/media/bg.764c542f19e12e322696.jpg",
@@ -14,10 +14,10 @@
     "static/media/switcher.png": "/my-projects/static/media/switcher.a9bfd3d7cf7bf6df91af.png",
     "index.html": "/my-projects/index.html",
     "main.244963f4.css.map": "/my-projects/static/css/main.244963f4.css.map",
-    "main.1ff95d02.js.map": "/my-projects/static/js/main.1ff95d02.js.map"
+    "main.ff572218.js.map": "/my-projects/static/js/main.ff572218.js.map"
   },
   "entrypoints": [
     "static/css/main.244963f4.css",
-    "static/js/main.1ff95d02.js"
+    "static/js/main.ff572218.js"
   ]
 }

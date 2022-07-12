@@ -5,8 +5,8 @@ a{
   color: rgb(0, 0, 0);
 }
 .screenshots{
-  width: 20px;
-  height: 20px;
+  width: 400px;
+  height: 400px;
 }
 .screenshotsMobile{
   width: 200px;
@@ -22,18 +22,18 @@ h1{
   color: rgb(255, 255, 255);
 }
 .container{
-  opacity: 0.9;
+  opacity: 0.8;
   background: rgb(255, 255, 255);
   margin: 10px;
   padding: 20px;
-  width: 500px;
+  /* width: 500px; */
   height: 300px;
   font-size: 18px;
   border-radius: 10%;
   color: rgb(0, 0, 0);
   overflow-y:scroll;
   text-align: center;
-  border: 25px double rgb(82, 72, 72) ;
+  border: 25px solid rgb(255, 255, 255) ;
 
 } 
 /* width */

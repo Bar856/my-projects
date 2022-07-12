@@ -2,9 +2,16 @@ import React from 'react'
 import { useState } from 'react';
 import { useEffect } from 'react'
 export default function Image(props) {
-  const [name, setName] = useState(props.name.includes('Gym' || 'Bank' || 'Garage'))
+  const [name, setName] = useState(props.name.includes('Bank' || 'Gym' || 'Garage'))
   useEffect(() => {
-    setName(props.name.includes('Gym' || 'Bank' || 'Garage'))
+    let n = props.name;
+    if (n.includes('Bank') || n.includes('Gym') || n.includes('Garage')){
+      setName(false)
+    }else{
+      setName(true)
+      
+    }
+    // setName(props.name.includes('Gym' || 'Bank' || 'Garage'))
   });
   
   return (
