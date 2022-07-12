@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-projects/static/css/main.ca4a5901.css",
-    "main.js": "/my-projects/static/js/main.69f894be.js",
+    "main.css": "/my-projects/static/css/main.244963f4.css",
+    "main.js": "/my-projects/static/js/main.1ff95d02.js",
     "static/media/smarthome1.png": "/my-projects/static/media/smarthome1.92db83702034b5217d10.png",
     "static/media/smarthome2.png": "/my-projects/static/media/smarthome2.b8d53e833b21eeea735b.png",
     "static/media/battle2.png": "/my-projects/static/media/battle2.a29524a52538a8d0974f.png",
@@ -13,11 +13,11 @@
     "static/media/bank.png": "/my-projects/static/media/bank.922f689a5c20bb5bf853.png",
     "static/media/switcher.png": "/my-projects/static/media/switcher.a9bfd3d7cf7bf6df91af.png",
     "index.html": "/my-projects/index.html",
-    "main.ca4a5901.css.map": "/my-projects/static/css/main.ca4a5901.css.map",
-    "main.69f894be.js.map": "/my-projects/static/js/main.69f894be.js.map"
+    "main.244963f4.css.map": "/my-projects/static/css/main.244963f4.css.map",
+    "main.1ff95d02.js.map": "/my-projects/static/js/main.1ff95d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca4a5901.css",
-    "static/js/main.69f894be.js"
+    "static/css/main.244963f4.css",
+    "static/js/main.1ff95d02.js"
   ]
 }
